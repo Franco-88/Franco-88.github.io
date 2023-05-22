@@ -1,0 +1,50 @@
+*{
+  
+  margin: 3px;
+  padding: 0;
+  box-sizing: border-box;
+
+ 
+}
+ 
+img { 
+width: 250px;
+height: auto;
+margin: 6px;
+
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  
+  min-height: 100vh;
+
+}
+
+.wrapper{
+  margin: 50px auto;
+  width: 80%;
+}
+
+.text-box {
+  
+
+}
+
+.text-box h2{
+  font-size: 35px;
+  font-family: font-family: 'Oswald', sans-serif;;
+}
+
+.text-box p{
+  font-size:20px;
+  font-family: minion variable concept;
+
+}
+
+.selfie-logo{
+  float: left;
+  margin-right: 15px;
+}
+
